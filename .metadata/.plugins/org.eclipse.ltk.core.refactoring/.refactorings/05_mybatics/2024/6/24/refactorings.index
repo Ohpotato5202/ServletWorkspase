@@ -1,0 +1,8 @@
+1718087605635	Move 'index.jsp' to 'webapp'
+1718087886180	Move 'web.xml' to 'WEB-INF'
+1718089480178	Delete element
+1718089577565	Copy file
+1718089591667	Rename resource 'sample-mapper.xml'
+1718090801552	Rename resource 'view'
+1718092352314	Rename type 'insertStudentController'
+1718157439896	Rename resource 'handlerMapping-info-properties'
